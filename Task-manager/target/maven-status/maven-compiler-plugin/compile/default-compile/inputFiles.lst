@@ -1,0 +1,15 @@
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\dto\CreateTaskRequest.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\model\User.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\model\Task.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\dto\UpdateStatusRequest.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\repository\TaskRepository.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\model\TaskStatus.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\service\KafkaProducerService.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\dto\UserBriefResponse.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\controller\TaskController.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\repository\UserRepository.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\kafka\TaskEvent.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\service\TaskServiceImpl.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\dto\TaskResponse.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\service\TaskService.java
+C:\Users\ocenka\Desktop\zxc\Р\Task\Task-manager\src\main\java\com\example\taskmanager\TaskManagerApplication.java

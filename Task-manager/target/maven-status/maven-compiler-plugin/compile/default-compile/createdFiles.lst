@@ -1,0 +1,15 @@
+com\example\taskmanager\controller\TaskController.class
+com\example\taskmanager\model\TaskStatus.class
+com\example\taskmanager\service\TaskServiceImpl.class
+com\example\taskmanager\model\Task.class
+com\example\taskmanager\model\User.class
+com\example\taskmanager\TaskManagerApplication.class
+com\example\taskmanager\dto\UpdateStatusRequest.class
+com\example\taskmanager\repository\UserRepository.class
+com\example\taskmanager\dto\TaskResponse.class
+com\example\taskmanager\dto\UserBriefResponse.class
+com\example\taskmanager\service\TaskService.class
+com\example\taskmanager\dto\CreateTaskRequest.class
+com\example\taskmanager\kafka\TaskEvent.class
+com\example\taskmanager\service\KafkaProducerService.class
+com\example\taskmanager\repository\TaskRepository.class
